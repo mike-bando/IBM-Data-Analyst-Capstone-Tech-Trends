@@ -1,0 +1,134 @@
+﻿"reviewer","approved","rejected","fleet_name","event_type","reviewer_name","earliest_reviewed_at","latest_reviewed_at"
+Aleksandra Pietrzak,876,337,WMATA,BUS_STOP,aleksandra.pietrzak@hayden.ai,2025-04-10 07:09:48,2025-04-11 13:25:53
+Aleksandra Pietrzak,3685,538,MTA,BUS_LANE,aleksandra.pietrzak@hayden.ai,2025-04-14 07:28:18,2025-04-29 15:59:12
+Andrei Buko,1,4,Philadelphia,BUS_STOP,andrei.buko@hayden.ai,2025-04-23 12:55:10,2025-04-25 11:19:56
+Andrei Buko,34,65,Philadelphia (PPA) Staging,BUS_STOP,andrei.buko@hayden.ai,2025-04-15 15:29:28,2025-04-29 14:26:38
+Andrei Buko,78,49,Philadelphia (PPA) Staging,BUS_LANE,andrei.buko@hayden.ai,2025-04-15 09:46:36,2025-04-24 09:47:23
+Andrei Buko,272,295,Philadelphia (PPA) Staging,NO_STOPPING,andrei.buko@hayden.ai,2025-04-17 10:00:47,2025-04-29 14:28:36
+Bartlomiej Gorak,0,2,MTA Staging,BUS_LANE,bartlomiej.gorak@hayden.ai,2025-04-26 13:29:02,2025-04-26 13:29:02
+Bartlomiej Gorak,63,317,Sacramento,BIKE_LANE,bartlomiej.gorak@hayden.ai,2025-04-18 06:47:57,2025-04-29 08:04:29
+Bartlomiej Gorak,200,260,Sacramento,BUS_STOP,bartlomiej.gorak@hayden.ai,2025-04-16 07:36:20,2025-04-29 07:13:59
+Bartlomiej Gorak,214,292,AC Transit,BUS_LANE,bartlomiej.gorak@hayden.ai,2025-04-19 06:09:31,2025-04-30 11:03:08
+Bartlomiej Gorak,1735,1113,AC Transit,BUS_STOP,bartlomiej.gorak@hayden.ai,2025-04-15 10:28:27,2025-04-30 14:27:36
+Bartlomiej Gorak,3307,1830,WMATA,BUS_STOP,bartlomiej.gorak@hayden.ai,2025-04-01 06:49:59,2025-04-29 13:31:24
+Bartlomiej Gorak,6730,1250,MTA,BUS_STOP,bartlomiej.gorak@hayden.ai,2025-04-02 06:19:51,2025-04-21 08:14:06
+Bartosz Wisniewski,16,29,Philadelphia,DOUBLE_PARKED,bartosz.wisniewski@hayden.ai,2025-04-17 11:29:56,2025-04-30 14:39:47
+Bartosz Wisniewski,27,10,Philadelphia (PPA) Staging,BUS_LANE,bartosz.wisniewski@hayden.ai,2025-04-14 11:06:58,2025-04-14 11:30:38
+Bartosz Wisniewski,28,21,Philadelphia (PPA) Staging,BUS_STOP,bartosz.wisniewski@hayden.ai,2025-04-14 11:33:22,2025-04-14 12:25:51
+Bartosz Wisniewski,62,175,Culver City,BUS_LANE,bartosz.wisniewski@hayden.ai,2025-04-01 14:06:00,2025-04-28 11:21:33
+Bartosz Wisniewski,110,99,Culver City,BUS_STOP,bartosz.wisniewski@hayden.ai,2025-04-01 13:47:53,2025-04-28 10:25:40
+Bartosz Wisniewski,455,330,Philadelphia,BUS_LANE,bartosz.wisniewski@hayden.ai,2025-04-17 10:58:24,2025-04-30 14:45:30
+Bartosz Wisniewski,733,240,Philadelphia,BUS_STOP,bartosz.wisniewski@hayden.ai,2025-04-17 10:34:37,2025-04-30 14:38:33
+Bartosz Wisniewski,2415,1995,LA Metro,BUS_LANE,bartosz.wisniewski@hayden.ai,2025-04-03 10:28:34,2025-04-22 14:10:26
+Bartosz Wisniewski,28070,3001,MTA,BUS_STOP,bartosz.wisniewski@hayden.ai,2025-04-01 10:22:27,2025-04-30 15:49:44
+Denys Amirov,0,1,Philadelphia (PPA) Staging,NO_STOPPING,denys.amirov@hayden.ai,2025-04-17 08:14:49,2025-04-17 08:14:49
+Denys Amirov,0,2,Philadelphia,BUS_STOP,denys.amirov@hayden.ai,2025-04-15 09:00:45,2025-04-15 09:02:31
+Denys Amirov,0,8,WMATA Staging,BUS_STOP,denys.amirov@hayden.ai,2025-04-17 12:16:11,2025-04-17 12:30:42
+Denys Amirov,5,2,WMATA Staging,BUS_LANE,denys.amirov@hayden.ai,2025-04-17 18:29:13,2025-04-17 20:01:02
+Denys Amirov,29,9,Philadelphia (PPA) Staging,BUS_STOP,denys.amirov@hayden.ai,2025-04-15 11:13:02,2025-04-15 14:11:28
+Dominik Kempa,9520,739,MTA,BUS_LANE,dominik.kempa@hayden.ai,2025-04-02 08:50:31,2025-04-25 15:37:24
+Dominik Kempa,16807,2208,MTA,BUS_STOP,dominik.kempa@hayden.ai,2025-04-01 08:22:19,2025-04-19 16:01:38
+Estera Pietkiewicz,2,6,Philadelphia,DOUBLE_PARKED,estera.pietkiewicz@hayden.ai,2025-04-17 10:08:42,2025-04-25 11:09:39
+Estera Pietkiewicz,4,1,Philadelphia (PPA) Staging,BUS_STOP,estera.pietkiewicz@hayden.ai,2025-04-14 11:40:05,2025-04-14 12:22:28
+Estera Pietkiewicz,20,116,Culver City,BUS_LANE,estera.pietkiewicz@hayden.ai,2025-04-01 10:38:18,2025-04-30 17:29:09
+Estera Pietkiewicz,27,24,Philadelphia (PPA) Staging,BUS_LANE,estera.pietkiewicz@hayden.ai,2025-04-10 15:01:43,2025-04-11 18:57:53
+Estera Pietkiewicz,63,61,Culver City,BUS_STOP,estera.pietkiewicz@hayden.ai,2025-04-01 10:25:30,2025-04-30 17:29:24
+Estera Pietkiewicz,77,48,AC Transit,BUS_LANE,estera.pietkiewicz@hayden.ai,2025-04-24 16:02:23,2025-04-24 17:52:41
+Estera Pietkiewicz,146,1113,Sacramento,BIKE_LANE,estera.pietkiewicz@hayden.ai,2025-04-15 08:53:31,2025-04-30 17:43:19
+Estera Pietkiewicz,163,135,Philadelphia,BUS_LANE,estera.pietkiewicz@hayden.ai,2025-04-17 09:05:55,2025-04-30 17:49:35
+Estera Pietkiewicz,525,261,Philadelphia,BUS_STOP,estera.pietkiewicz@hayden.ai,2025-04-17 08:13:44,2025-04-30 17:46:15
+Estera Pietkiewicz,1098,2009,Sacramento,BUS_STOP,estera.pietkiewicz@hayden.ai,2025-04-01 08:38:31,2025-04-30 17:42:37
+Estera Pietkiewicz,1951,1514,AC Transit,BUS_STOP,estera.pietkiewicz@hayden.ai,2025-04-08 08:18:29,2025-04-30 15:47:25
+Estera Pietkiewicz,5498,818,MTA,BUS_STOP,estera.pietkiewicz@hayden.ai,2025-04-01 10:52:22,2025-04-28 16:04:22
+Izabela Skoczylas,74,269,Culver City,BUS_LANE,izabela.skoczylas@hayden.ai,2025-04-03 10:51:18,2025-04-29 10:27:20
+Izabela Skoczylas,86,102,Culver City,BUS_STOP,izabela.skoczylas@hayden.ai,2025-04-03 10:17:07,2025-04-29 15:43:03
+Izabela Skoczylas,9425,859,MTA,BUS_LANE,izabela.skoczylas@hayden.ai,2025-04-22 07:44:33,2025-04-30 14:42:56
+Izabela Skoczylas,26416,5173,MTA,BUS_STOP,izabela.skoczylas@hayden.ai,2025-04-03 13:16:06,2025-04-30 16:31:15
+Jakub Cieslik,3,3,LA Metro,BUS_STOP,jakub.cieslik@hayden.ai,2025-04-09 08:24:54,2025-04-16 08:27:49
+Jakub Cieslik,3158,6767,LA Metro,BUS_LANE,jakub.cieslik@hayden.ai,2025-04-08 08:49:37,2025-04-25 16:27:00
+Jakub Cieslik,25014,4017,MTA,BUS_STOP,jakub.cieslik@hayden.ai,2025-04-01 08:44:34,2025-04-30 14:31:31
+Jan Mielziuk,41,229,Sacramento,BIKE_LANE,jan.mielziuk@hayden.ai,2025-04-17 07:51:06,2025-04-30 14:36:14
+Jan Mielziuk,280,358,AC Transit,BUS_LANE,jan.mielziuk@hayden.ai,2025-04-16 11:55:54,2025-04-18 13:25:52
+Jan Mielziuk,1714,1578,Sacramento,BUS_STOP,jan.mielziuk@hayden.ai,2025-04-10 09:22:09,2025-04-30 14:42:40
+Jan Mielziuk,1883,1237,AC Transit,BUS_STOP,jan.mielziuk@hayden.ai,2025-04-15 10:32:52,2025-04-21 12:18:15
+Jan Mielziuk,29640,4610,MTA,BUS_STOP,jan.mielziuk@hayden.ai,2025-04-01 08:34:24,2025-04-30 18:12:22
+Karolina Kaminska,86,1042,Sacramento,BIKE_LANE,karolina.kaminska@hayden.ai,2025-04-16 09:31:40,2025-04-26 18:48:20
+Karolina Kaminska,598,530,AC Transit,BUS_STOP,karolina.kaminska@hayden.ai,2025-04-17 18:35:32,2025-04-21 19:50:17
+Karolina Kaminska,968,1337,Sacramento,BUS_STOP,karolina.kaminska@hayden.ai,2025-04-01 12:03:00,2025-04-26 17:04:30
+Karolina Kaminska,15359,3548,MTA,BUS_STOP,karolina.kaminska@hayden.ai,2025-04-01 14:59:35,2025-04-23 19:44:09
+Karolina Rzepka,1899,829,WMATA,BUS_STOP,karolina.rzepka@hayden.ai,2025-04-09 08:40:01,2025-04-21 20:42:27
+Karolina Rzepka,6812,1700,MTA,BUS_LANE,karolina.rzepka@hayden.ai,2025-04-01 09:13:04,2025-04-29 16:58:58
+Karolina Rzepka,15756,2517,MTA,BUS_STOP,karolina.rzepka@hayden.ai,2025-04-01 16:16:46,2025-04-30 16:58:08
+Klaudia Bulicz,10976,1861,MTA,BUS_STOP,klaudia.bulicz@hayden.ai,2025-04-01 10:34:53,2025-04-30 16:54:48
+Klaudia Bulicz,20023,2390,MTA,BUS_LANE,klaudia.bulicz@hayden.ai,2025-04-02 08:03:16,2025-04-28 19:00:34
+Maciej Watrobski,2263,518,MTA,BUS_LANE,maciej.watrobski@hayden.ai,2025-04-01 06:57:15,2025-04-30 16:55:43
+Maciej Watrobski,2379,14604,LA Metro,BUS_LANE,maciej.watrobski@hayden.ai,2025-04-02 09:18:01,2025-04-30 14:30:56
+Maciej Watrobski,4038,3299,LA Metro,BUS_STOP,maciej.watrobski@hayden.ai,2025-04-01 13:23:11,2025-04-30 14:35:02
+Maciej Watrobski,6084,1998,MTA,BUS_STOP,maciej.watrobski@hayden.ai,2025-04-01 09:53:30,2025-04-28 13:57:31
+Magdalena Marczak,16,50,Philadelphia (PPA) Staging,BUS_LANE,magdalena.marczak@hayden.ai,2025-04-02 16:41:32,2025-04-03 16:27:08
+Magdalena Marczak,47,86,Torrance Pilot,BUS_STOP,magdalena.marczak@hayden.ai,2025-04-08 11:48:51,2025-04-14 12:40:02
+Magdalena Marczak,437,98,MTA,BUS_STOP,magdalena.marczak@hayden.ai,2025-04-02 18:08:03,2025-04-02 20:09:58
+Magdalena Pietraszak,295,336,AC Transit,BUS_LANE,magdalena.pietraszak@hayden.ai,2025-04-15 16:38:20,2025-04-29 11:20:10
+Magdalena Pietraszak,1386,294,MTA,BUS_STOP,magdalena.pietraszak@hayden.ai,2025-04-11 09:12:20,2025-04-29 18:29:48
+Magdalena Pietraszak,3132,1493,AC Transit,BUS_STOP,magdalena.pietraszak@hayden.ai,2025-04-10 08:40:32,2025-04-28 14:26:22
+Magdalena Pietraszak,5841,2431,WMATA,BUS_STOP,magdalena.pietraszak@hayden.ai,2025-04-01 09:14:58,2025-04-30 16:36:45
+Maksim Reshetnikau,63,7,WMATA,BUS_LANE,maksim.reshetnikau@hayden.ai,2025-04-03 04:46:47,2025-04-09 00:09:43
+Maksim Reshetnikau,711,5204,WMATA Staging,BUS_STOP,maksim.reshetnikau@hayden.ai,2025-04-02 20:34:03,2025-04-17 18:58:11
+Maksim Reshetnikau,1626,334,WMATA Staging,BUS_LANE,maksim.reshetnikau@hayden.ai,2025-04-02 15:29:42,2025-04-18 17:19:17
+Maksim Reshetnikau,10439,4846,WMATA,BUS_STOP,maksim.reshetnikau@hayden.ai,2025-04-01 00:01:30,2025-04-30 23:55:15
+Marcin Pawlik,28,10,MTA,BUS_LANE,marcin.pawlik@hayden.ai,2025-04-15 15:07:54,2025-04-15 15:42:26
+Marcin Pawlik,1192,1030,LA Metro,BUS_STOP,marcin.pawlik@hayden.ai,2025-04-02 08:30:18,2025-04-30 15:00:54
+Marcin Pawlik,4797,566,MTA,BUS_STOP,marcin.pawlik@hayden.ai,2025-04-01 07:24:12,2025-04-23 14:19:32
+Marcin Pawlik,15229,17071,LA Metro,BUS_LANE,marcin.pawlik@hayden.ai,2025-04-02 06:29:47,2025-04-30 14:57:31
+Maria Janota,0,8,Philadelphia,BUS_STOP,maria.janota@hayden.ai,2025-04-29 10:34:36,2025-04-29 10:43:02
+Maria Janota,1,9,WMATA Staging,BUS_STOP,maria.janota@hayden.ai,2025-04-17 19:19:10,2025-04-17 19:52:04
+Maria Janota,10,4,Philadelphia (PPA) Staging,BUS_LANE,maria.janota@hayden.ai,2025-04-15 17:09:10,2025-04-15 17:28:24
+Maria Janota,19,4,Philadelphia (PPA) Staging,BUS_STOP,maria.janota@hayden.ai,2025-04-15 16:44:53,2025-04-15 17:22:08
+Maria Janota,53,0,WMATA Staging,BUS_LANE,maria.janota@hayden.ai,2025-04-17 19:21:51,2025-04-17 19:52:48
+Maria Janota,144,3,MTA,BUS_STOP,maria.janota@hayden.ai,2025-04-09 12:52:16,2025-04-21 00:08:17
+Maria Janota,1593,352,MTA,BUS_LANE,maria.janota@hayden.ai,2025-04-03 10:41:32,2025-04-20 23:55:05
+Mateusz Laskowski,1071,999,AC Transit,BUS_LANE,mateusz.laskowski@hayden.ai,2025-04-02 13:39:15,2025-04-26 16:23:50
+Mateusz Laskowski,4589,3046,AC Transit,BUS_STOP,mateusz.laskowski@hayden.ai,2025-04-02 09:18:07,2025-04-26 16:20:55
+Mateusz Laskowski,13367,2276,MTA,BUS_STOP,mateusz.laskowski@hayden.ai,2025-04-01 09:40:59,2025-04-25 15:59:54
+Michal Bando,4403,664,MTA,BUS_LANE,michal.bando@hayden.ai,2025-04-08 07:00:09,2025-04-17 10:58:16
+Michal Kosmala,34,202,Culver City,BUS_LANE,michal.kosmala@hayden.ai,2025-04-02 13:18:15,2025-04-30 12:35:03
+Michal Kosmala,59,95,Culver City,BUS_STOP,michal.kosmala@hayden.ai,2025-04-04 13:51:59,2025-04-30 12:22:16
+Michal Kosmala,2919,647,MTA,BUS_STOP,michal.kosmala@hayden.ai,2025-04-10 08:04:08,2025-04-11 15:53:01
+Michal Kosmala,3811,694,MTA,BUS_LANE,michal.kosmala@hayden.ai,2025-04-01 08:35:43,2025-04-12 13:42:32
+Michal Radymski,1,0,WMATA Staging,BUS_LANE,michal.radymski@hayden.ai,2025-04-17 09:51:05,2025-04-17 09:51:05
+Michal Radymski,554,863,WMATA Staging,BUS_STOP,michal.radymski@hayden.ai,2025-04-17 09:06:16,2025-04-18 15:17:31
+Michal Radymski,2118,960,WMATA,BUS_STOP,michal.radymski@hayden.ai,2025-04-23 09:05:46,2025-04-29 14:06:21
+Michal Radymski,6215,1091,MTA,BUS_STOP,michal.radymski@hayden.ai,2025-04-08 08:15:48,2025-04-29 16:26:14
+Michal Radymski,27220,4541,MTA,BUS_LANE,michal.radymski@hayden.ai,2025-04-01 09:08:58,2025-04-26 16:37:32
+Monika Pawelec,2,290,Sacramento,BIKE_LANE,monika.pawelec@hayden.ai,2025-04-19 12:05:08,2025-04-19 15:16:03
+Monika Pawelec,32,21,Philadelphia (PPA) Staging,BUS_LANE,monika.pawelec@hayden.ai,2025-04-11 19:19:57,2025-04-11 20:27:35
+Monika Pawelec,1024,1088,Sacramento,BUS_STOP,monika.pawelec@hayden.ai,2025-04-04 12:32:16,2025-04-19 17:45:15
+Monika Pawelec,5137,1197,MTA,BUS_STOP,monika.pawelec@hayden.ai,2025-04-01 12:43:39,2025-04-17 23:59:21
+Monika Pawlowska,1,0,WMATA Staging,BUS_LANE,monika.pawlowska@hayden.ai,2025-04-17 17:13:34,2025-04-17 17:13:34
+Monika Pawlowska,3,64,MTA,DOUBLE_PARKED,monika.pawlowska@hayden.ai,2025-04-22 14:15:11,2025-04-22 14:59:10
+Monika Pawlowska,8,7,MTA,BUS_LANE,monika.pawlowska@hayden.ai,2025-04-22 14:21:10,2025-04-22 14:59:10
+Monika Pawlowska,69,104,Torrance Pilot,BUS_STOP,monika.pawlowska@hayden.ai,2025-04-14 14:03:07,2025-04-28 13:37:45
+Monika Pawlowska,74,43,NJ Transit Pilot,BIKE_LANE,monika.pawlowska@hayden.ai,2025-04-01 11:03:01,2025-04-01 11:24:23
+Monika Pawlowska,86,129,NJ Transit Pilot,BUS_STOP,monika.pawlowska@hayden.ai,2025-04-01 11:25:23,2025-04-01 12:03:28
+Monika Pawlowska,772,2129,WMATA Staging,BUS_STOP,monika.pawlowska@hayden.ai,2025-04-10 10:10:30,2025-04-18 14:58:38
+Monika Pawlowska,7511,2858,WMATA,BUS_STOP,monika.pawlowska@hayden.ai,2025-04-02 09:04:10,2025-04-28 17:06:22
+Monika Pawlowska,15597,2051,MTA,BUS_STOP,monika.pawlowska@hayden.ai,2025-04-01 09:11:31,2025-04-29 17:49:00
+Natalia Korczynska,177,43,LA Metro,BUS_LANE,natalia.korczynska@hayden.ai,2025-04-15 18:17:27,2025-04-18 00:35:54
+Natalia Korczynska,39473,4385,MTA,BUS_STOP,natalia.korczynska@hayden.ai,2025-04-01 11:51:54,2025-04-30 16:48:53
+Paulina Suchenek,583,496,AC Transit,BUS_LANE,paulina.suchenek@hayden.ai,2025-04-02 17:11:20,2025-04-30 11:36:03
+Paulina Suchenek,6235,4469,AC Transit,BUS_STOP,paulina.suchenek@hayden.ai,2025-04-01 09:33:21,2025-04-29 14:18:46
+Paulina Suchenek,18723,3301,MTA,BUS_STOP,paulina.suchenek@hayden.ai,2025-04-07 09:22:58,2025-04-30 18:29:42
+Remigiusz Marszolik,26,12,Philadelphia (PPA) Staging,BUS_STOP,remigiusz.marszolik@hayden.ai,2025-04-15 12:17:00,2025-04-15 12:49:38
+Remigiusz Marszolik,31,22,Philadelphia (PPA) Staging,BUS_LANE,remigiusz.marszolik@hayden.ai,2025-04-14 11:22:18,2025-04-14 11:42:40
+Remigiusz Marszolik,95,50,Philadelphia,BUS_STOP,remigiusz.marszolik@hayden.ai,2025-04-29 10:48:47,2025-04-29 13:44:53
+Remigiusz Marszolik,297,151,Philadelphia,BUS_LANE,remigiusz.marszolik@hayden.ai,2025-04-17 08:45:47,2025-04-29 13:57:40
+Remigiusz Marszolik,1113,452,LA Metro,BUS_LANE,remigiusz.marszolik@hayden.ai,2025-04-02 10:09:18,2025-04-22 16:36:24
+Remigiusz Marszolik,25106,5292,MTA,BUS_LANE,remigiusz.marszolik@hayden.ai,2025-04-01 10:02:08,2025-04-30 16:11:34
+Wojciech Bromirski,4,5,Philadelphia,DOUBLE_PARKED,wojciech.bromirski@hayden.ai,2025-04-18 11:41:18,2025-04-28 09:02:34
+Wojciech Bromirski,17,24,Philadelphia (PPA) Staging,BUS_LANE,wojciech.bromirski@hayden.ai,2025-04-14 13:26:55,2025-04-14 14:29:08
+Wojciech Bromirski,47,12,Philadelphia (PPA) Staging,BUS_STOP,wojciech.bromirski@hayden.ai,2025-04-14 14:19:23,2025-04-14 15:01:30
+Wojciech Bromirski,194,57,Philadelphia,BUS_STOP,wojciech.bromirski@hayden.ai,2025-04-18 11:15:21,2025-04-28 10:42:15
+Wojciech Bromirski,293,146,Philadelphia,BUS_LANE,wojciech.bromirski@hayden.ai,2025-04-18 08:17:14,2025-04-28 09:43:07
+Wojciech Bromirski,419,311,LA Metro,BUS_LANE,wojciech.bromirski@hayden.ai,2025-04-17 08:03:48,2025-04-17 15:58:31
+Wojciech Bromirski,907,341,MTA,BUS_STOP,wojciech.bromirski@hayden.ai,2025-04-21 10:27:18,2025-04-21 18:00:00
+Wojciech Bromirski,26031,3533,MTA,BUS_LANE,wojciech.bromirski@hayden.ai,2025-04-01 09:19:37,2025-04-30 16:31:10

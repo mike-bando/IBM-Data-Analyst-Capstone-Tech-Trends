@@ -1,0 +1,4 @@
+ID,System,Status
+1,Serwer_A,OK
+2,Serwer_B,Error
+3,Serwer_C,OK
