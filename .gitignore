@@ -1,0 +1,41 @@
+# Pliki danych - zakomentowane, żeby Git je widział
+*.csv
+*.xlsx
+
+# Blokujemy duże pliki danych
+*.csv
+*.xlsx
+data/survey_data_with_duplicate.csv
+
+# Odblokowujemy tylko te małe, które sprawdziliśmy (11MB jest OK)
+!data/popular-languages.csv
+!data/marketing_sample_for_naukri_com-jobs__20190701_20190830__30k_data.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Systemowe i Pythonowe
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Wirtualne środowiska (jeśli używasz)
+venv/
+.venv/
+# Środowiska wirtualne
+myenv/
+venv/
+env/
+
+# Foldery IDE
+.idea/
+.vscode/
+
+# Archiwa i obrazy
+*.zip
+*.jpeg
+*.jpg
+*.png
+data/survey_data_updated.csv
+data/survey_data_updated.csv
+data/survey_data_updated.csv

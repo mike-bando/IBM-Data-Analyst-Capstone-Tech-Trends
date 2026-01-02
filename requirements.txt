@@ -1,0 +1,14 @@
+# Data Analysis & Manipulation
+pandas
+openpyxl
+
+# Web Scraping
+beautifulsoup4
+lxml
+
+# API & Networking
+requests
+flask
+
+# Interactive Development
+notebook
